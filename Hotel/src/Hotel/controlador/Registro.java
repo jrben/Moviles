@@ -1,5 +1,5 @@
 package Hotel.controlador;
 
-public class fff {
+public class Registro {
 
 }
