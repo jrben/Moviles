@@ -20,24 +20,23 @@
         </div>
       </li>
       <li>
-        <label for="blog">Blog</label>
+        <label for="blog">Servicios</label>
         <input type="radio" name="verticalMenu" id="blog" />
         <div>
           <ul>
-            <li><a href="#">Articles</a></li>
-            <li><a href="#">Inspiration</a></li>
+            <li><a href="#">Reservar Habitacion</a></li>
+            <li><a href="#">Modificar Reserva</a></li>
             <li><a href="#">Tutorials</a></li>
           </ul>
         </div>
       </li>
       <li>
-        <label for="work">Work</label>
+        <label for="work">Cuenta</label>
         <input type="radio" name="verticalMenu" id="work" />
         <div>
           <ul>
-            <li><a href="#">Client Login</a></li>
-            <li><a href="#">Get Quote</a></li>
-            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Registrarse</a></li>
+            <li><a href="#">Iniciar Sesion</a></li>
           </ul>
         </div>
       </li>
