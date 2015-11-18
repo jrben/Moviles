@@ -1,5 +1,5 @@
 package Hotel.modelo.servicio;
 
-public class ServicioUsuario {
+public class ServicioCliente {
 
 }

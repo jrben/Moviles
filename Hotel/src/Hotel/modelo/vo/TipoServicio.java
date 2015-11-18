@@ -1,5 +1,5 @@
 package Hotel.modelo.vo;
 
-public class Usuario {
+public class TipoServicio {
 
 }
