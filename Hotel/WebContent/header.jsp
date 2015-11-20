@@ -12,27 +12,25 @@
         <input type="radio" name="verticalMenu" id="home" />
         <div>
           <ul>
-            <li><a href="#">Index</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Corporate</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#">Acerca de Nosotros</a></li>
+            <li><a href="#">Item</a></li>
+            <li><a href="#">Contactenos</a></li>
           </ul>
         </div>
       </li>
       <li>
         <label for="blog">Servicios</label>
-        <input type="radio" name="verticalMenu" id="blog" />
+        <input type="radio" name="verticalMenu" id="servicios" />
         <div>
           <ul>
             <li><a href="#">Reservar Habitacion</a></li>
             <li><a href="#">Modificar Reserva</a></li>
-            <li><a href="#">Tutorials</a></li>
           </ul>
         </div>
       </li>
       <li>
         <label for="work">Cuenta</label>
-        <input type="radio" name="verticalMenu" id="work" />
+        <input type="radio" name="verticalMenu" id="cuenta" />
         <div>
           <ul>
             <li><a href="#">Registrarse</a></li>

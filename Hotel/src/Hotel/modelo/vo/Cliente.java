@@ -8,6 +8,9 @@ public class Cliente {
 
 public Cliente(){
 //constructor vacio	
+	nombre="";
+	username="";
+	password="";
 }
 
 public final int getId_cliente() {
